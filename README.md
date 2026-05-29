@@ -46,7 +46,7 @@ To investigate patterns of missingness, a new boolean column called `tempo_missi
 ## Distribution of Popularity
 
 <iframe
-    src="assets/popularity_histogram.html"
+    src="assets/popularity_distribution.html"
     width="100%"
     height="600"
     frameborder="0">
