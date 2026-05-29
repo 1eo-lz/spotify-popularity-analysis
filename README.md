@@ -293,4 +293,4 @@ The model produces a larger prediction error for explicit tracks than for non-ex
 
 While some disparity is observed, the results do not provide strong evidence that the model is unfair with respect to explicitness.
 
-[INSERT FAIRNESS PERMUTATION PLOT HERE]
+**fairness permutation plot**
